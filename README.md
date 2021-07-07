@@ -2,7 +2,7 @@
 
 I am a front-end developer and just learning flutter. I have used bootstrap, jQuery, and hand-coded html. I've also used Ruby on Rails with MySQL. Sadly I don't do much in the way of technical things anymore, but look forward to getting back to it one of these days!
 
-📫 How to reach me: barbara@atsign.com https://atsign.directory/@barbara
+📫 How to reach me: barbara@atsign.com https://wavi.ng/@barbara
 
 <!--
 **tallent/tallent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
